@@ -1,4 +1,4 @@
-# most-used-git-commands
+# Git cheatsheet
 Git commands:
 
 - `clone <url>`                     # Clone repository
