@@ -15,6 +15,7 @@ Git commands:
 - `branch -D <branch-name>`		# Delete branch
 - `checkout <branch-name>`		# Change to other branch
 - `checkout -b <branch-name>` # Create branch and jump to it
+- `checkout -`                # Toggle switch branches (prevoius to current, current to previous)
 - `merge <branch-name>`		    # Merge branches
 - `rebase <branch-name>`		    # Apply commits from "branch-name" to current branch
 - `status`				        # Show staging status and some important info
