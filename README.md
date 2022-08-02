@@ -1,4 +1,6 @@
 # Git cheatsheet
+[Español](es.md)
+
 Git commands:
 
 - `clone <url>`                     # Clone repository
