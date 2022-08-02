@@ -23,3 +23,6 @@ Git commands:
 - `rebase <branch-name>`		    # Apply commits from "branch-name" to current branch
 - `status`				        # Show staging status and some important info
 - `git rebase master && git reset master` # Just awesome
+
+
+ℹ️ This is a small set of descriptions for some popular commands of git, more information at [All git commands](https://git-scm.com/docs/git#_git_commands)
