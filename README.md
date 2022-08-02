@@ -6,6 +6,7 @@ Git commands:
 - `merge -m <message>`		    # Save changes with message
 - `push` 				            # Upload the local repository to github
 - `push --force` 			        # Force push overwriting remote (Not recommended when working with other in same PR) Research
+- `git push --force-with-lease` # Personal recommended way of doing forced push (Only pushes if there are no new changes by others)
 - `pull`				            # Download remote repository changes
 - `log`				            # Shows history
 - `reset --hard <commit hash>`	# Roll back to a previous version (without hash discards staged changes)
