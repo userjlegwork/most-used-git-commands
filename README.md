@@ -24,5 +24,7 @@ Git commands:
 - `status`				        # Show staging status and some important info
 - `git rebase master && git reset master` # Just awesome
 
+### Change message of old commits
+[Guide](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message)
 
 ℹ️ This is a small set of descriptions for some popular commands of git, more information at [All git commands](https://git-scm.com/docs/git#_git_commands)
