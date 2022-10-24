@@ -23,6 +23,8 @@ Git commands:
 - `rebase <branch-name>`		    # Apply commits from "branch-name" to current branch
 - `status`				        # Show staging status and some important info
 - `git rebase master && git reset master` # Just awesome
+- `stash` # Temporary save uncommited changes
+- `stash pop` # Restore most recent stashed changes
 
 ### Change message of old commits
 [Guide](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message)
